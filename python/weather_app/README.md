@@ -8,7 +8,7 @@ This project is a simple weather dashboard built using Python and Streamlit. It 
 
 - **Python 3**
 - **Streamlit** for web interface
-- **OpenWeatherMap API** for live data
+- **Weatherapi API** for live data
 - `requests`, `json` modules
 
 ---
