@@ -20,7 +20,7 @@
 ### 📝 Blog Page
 ![Blog](./screenshots/blog.png)
 
-### 🛠️ Tool Page (SEO Keyword Research etc.)
-![Tool](./screenshots/tool.png)
+### 🛠️ Contact Page
+![Contact](./screenshots/tool.png)
 
 ---
