@@ -12,8 +12,6 @@ This repository contains my detailed walkthrough for the [Snort Challenge - The 
 ## 📸 Medium Post
 [View My Medium Post](https://medium.com/@aa7661538/tryhackme-snort-challenge-the-basics-complete-step-by-step-walkthrough-425e146d2624)
 
-## 📂 Project Structure
-- `walkthrough.md` – Full step-by-step write-up
 
 ## 🛠 Tools Used
 - Snort
