@@ -14,8 +14,6 @@ This repository contains my detailed walkthrough for the [Snort Challenge - The 
 
 ## 📂 Project Structure
 - `walkthrough.md` – Full step-by-step write-up
-- `rules/` – Custom Snort rules used in analysis
-- `screenshots/` – Sample alert outputs and decoded logs
 
 ## 🛠 Tools Used
 - Snort
