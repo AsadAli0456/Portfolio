@@ -1,4 +1,5 @@
-Wireshark Packet Operations: Advanced Network Analysis Project
+*Wireshark Packet Operations: Advanced Network Analysis Project*
+
 🎯 Project Overview
 A comprehensive technical deep-dive into advanced Wireshark packet analysis capabilities, demonstrating professional-level network forensics and security investigation techniques. This project transforms theoretical knowledge into practical cybersecurity skills through hands-on packet analysis.
 🛠️ Technical Stack & Tools
