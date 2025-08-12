@@ -83,15 +83,6 @@ This project demonstrates real-world cybersecurity skills applicable to:
 
 ---
 
-## 🏆 Professional Certification Alignment
-Skills demonstrated align with industry certifications:
-- **GCIH** – GIAC Certified Incident Handler  
-- **GCFA** – GIAC Certified Forensic Analyst  
-- **GNFA** – GIAC Network Forensic Analyst  
-- **CISSP** – Network Security Domain  
-
----
-
 ## 🔄 Continuous Learning
 This project represents ongoing professional development in cybersecurity, building upon foundational knowledge toward advanced threat detection and network forensics capabilities.
 
@@ -99,6 +90,6 @@ This project represents ongoing professional development in cybersecurity, build
 
 ## 📋 Project Status
 - **Status:** ✅ Complete  
-- **Completion Date:** [12/8/2025]  
+- **Completion Date:** 12/8/2025  
 - **Documentation:** Comprehensive technical writeup published  
 - **Skills Validated:** Advanced network analysis and security investigation  
